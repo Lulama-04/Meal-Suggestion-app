@@ -23,3 +23,4 @@ I'm Task to develope a Android app using android studio and kotlin to suggest a 
 the user is prompted to enter the time of of day and click the generate button on the app to recieve an output that
 gives them a meal suggestion.I was also given a demand to make the design user friendly and have a good User Interface.
 
+![image alt](https://raw.githubusercontent.com/Lulama-04/Meal-Suggestion-app/8dc5d45896f2f85846907411e9bf0b0e3edca650/Screenshot%202025-04-02%20234245.png)
